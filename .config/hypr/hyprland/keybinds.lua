@@ -9,9 +9,8 @@ local hyprScripts = "$HOME/.config/hypr/hyprland/scripts"
 local qsIpcCall = "qs -c $qsConfig ipc call"
 local qsIsAlive = qsIpcCall .. " TEST_ALIVE"
 
-hl.bind("SUPER + SPACE", hl.dsp.global("quickshell:searchToggleRelease"), { description = "Shell: Toggle search" })
 hl.bind("SUPER + SUPER_R", hl.dsp.global("quickshell:searchToggleRelease"))
-hl.bind("SUPER + SPACE", hl.dsp.exec_cmd(qsIsAlive .. " || pkill fuzzel || fuzzel"))
+hl.bind("SUPER + SPACE", hl.dsp.exec_cmd("pkill fuzzel || fuzzel"))
 hl.bind("SUPER + SUPER_R", hl.dsp.exec_cmd(qsIsAlive .. " || pkill fuzzel || fuzzel"))
 
 hl.bind("SUPER_L", hl.dsp.global("quickshell:workspaceNumber"), { ignore_mods = true, transparent = true })
@@ -459,7 +458,11 @@ hl.bind(
 ) -- # [hidden]
 
 --##! Session
-hl.bind("SUPER + L", hl.dsp.exec_cmd("loginctl lock-session"), { description = "Session: Lock" })
+hl.bind(
+	"SUPER + L",
+	hl.dsp.exec_cmd(qsIpcCall .. " lock activate || loginctl lock-session"),
+	{ description = "Session: Lock" }
+)
 hl.bind(
 	"SUPER + SHIFT + L",
 	hl.dsp.exec_cmd("systemctl suspend || loginctl suspend"),
