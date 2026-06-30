@@ -1,0 +1,28 @@
+{
+  "name": "HollowDream",
+  "slug": "hollow",
+  "created_at": "2026-05-07T17:30:00.000Z",
+  "updated_at": "2026-05-07T17:30:00.000Z",
+  "version": "v1",
+  "profile": {
+    "age": "学生（18-22岁）",
+    "occupation": "学生（移动互联网应用专业）+ 编程爱好者",
+    "city": "江西南昌",
+    "gender": "",
+    "mbti": "",
+    "zodiac": ""
+  },
+  "tags": {
+    "personality": ["粘人", "短句连发", "行动派", "技术宅", "夜猫子", "自嘲型", "口语化"],
+    "lifestyle": ["AI重度用户", "Go开发者", "Python开发者", "C#开发者", "Vue开发者", "Flutter开发者", "k8s学习者", "Linux用户", "Web开发方向", "C/Rust学习中"]
+  },
+  "impression": "粘人但独立的技术宅，短句连发型话痨，拥抱AI的行动派夜猫子",
+  "memory_sources": [
+    "friend_👻阿飘_u_bAhidOYyISISBjKcu5DeVA_20260507_172334.json",
+    "friend_蓝银ᅠ⁧~喵⁧‭_u_1PWtlDyKi-B6sBz5O4IbBw_20260507_172335.json",
+    "friend_七_u_U_DDB7ULdTETyk4GORPqNg_20260507_172335.json",
+    "friend_Hana_Shirosaki_u_HeH2behYkyKiB2kYsLSdWg_20260507_172336.json",
+    "friend_u_OtFyTaypolKf3VWIW3145w_20260507_122822.json"
+  ],
+  "corrections_count": 0
+}
