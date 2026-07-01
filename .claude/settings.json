@@ -57,7 +57,7 @@
   },
   "language": "Chinese",
   "theme": "auto",
-  "python": "/home/hollow/.claude/venv/bin/python",
+  "python": "$HOME/.claude/venv/bin/python",
   "teammateMode": "tmux",
   "hasCompletedOnboarding": true
 }
