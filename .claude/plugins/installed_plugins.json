@@ -1,0 +1,193 @@
+{
+  "version": 2,
+  "plugins": {
+    "claude-mem@thedotmack": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/thedotmack/claude-mem/13.9.2",
+        "version": "13.9.2",
+        "installedAt": "2026-04-28T06:36:41.765Z",
+        "lastUpdated": "2026-07-01T07:25:18.114Z",
+        "gitCommitSha": "cbdce2d676a9646b73dc236eebb53e4019870dcf"
+      }
+    ],
+    "rust-analyzer-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/rust-analyzer-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-30T06:38:35.482Z",
+        "lastUpdated": "2026-04-30T06:38:35.482Z"
+      }
+    ],
+    "postman@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/postman/1.2.0",
+        "version": "1.2.0",
+        "installedAt": "2026-05-07T14:48:31.898Z",
+        "lastUpdated": "2026-06-13T08:21:03.909Z",
+        "gitCommitSha": "416e40da03a237df7bf03f4362cf6fc7b989b567"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/frontend-design/unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-07T15:05:36.220Z",
+        "lastUpdated": "2026-07-01T07:50:38.971Z",
+        "gitCommitSha": "7d0e5f5aae1643db011e905b561fca81776388a6"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/github/unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-07T15:05:50.917Z",
+        "lastUpdated": "2026-07-01T07:50:38.970Z",
+        "gitCommitSha": "7d0e5f5aae1643db011e905b561fca81776388a6"
+      }
+    ],
+    "javascript-typescript@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/javascript-typescript/1.2.2",
+        "version": "1.2.2",
+        "installedAt": "2026-05-08T12:55:41.551Z",
+        "lastUpdated": "2026-05-08T12:55:41.551Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "backend-development@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/backend-development/1.3.1",
+        "version": "1.3.1",
+        "installedAt": "2026-05-08T12:55:47.676Z",
+        "lastUpdated": "2026-05-08T12:55:47.676Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "python-development@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/python-development/1.2.2",
+        "version": "1.2.2",
+        "installedAt": "2026-05-08T12:55:52.167Z",
+        "lastUpdated": "2026-05-08T12:55:52.167Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "security-scanning@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/security-scanning/1.3.1",
+        "version": "1.3.1",
+        "installedAt": "2026-05-08T12:55:57.061Z",
+        "lastUpdated": "2026-05-08T12:55:57.061Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "comprehensive-review@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/comprehensive-review/1.3.0",
+        "version": "1.3.0",
+        "installedAt": "2026-05-08T12:56:02.381Z",
+        "lastUpdated": "2026-05-08T12:56:02.381Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "full-stack-orchestration@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/full-stack-orchestration/1.3.0",
+        "version": "1.3.0",
+        "installedAt": "2026-05-08T12:56:07.622Z",
+        "lastUpdated": "2026-05-08T12:56:07.622Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "plugin-eval@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/plugin-eval/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2026-05-08T12:56:34.254Z",
+        "lastUpdated": "2026-05-08T12:56:34.254Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "agent-teams@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/agent-teams/1.0.2",
+        "version": "1.0.2",
+        "installedAt": "2026-05-08T12:56:48.356Z",
+        "lastUpdated": "2026-05-08T12:56:48.356Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "conductor@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/conductor/1.2.1",
+        "version": "1.2.1",
+        "installedAt": "2026-05-08T12:56:52.175Z",
+        "lastUpdated": "2026-05-08T12:56:52.175Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "code-documentation@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/code-documentation/1.2.0",
+        "version": "1.2.0",
+        "installedAt": "2026-05-08T12:58:15.799Z",
+        "lastUpdated": "2026-05-08T12:58:15.799Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "ui-design@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/ui-design/1.0.3",
+        "version": "1.0.3",
+        "installedAt": "2026-05-08T12:59:09.057Z",
+        "lastUpdated": "2026-05-08T12:59:09.057Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "systems-programming@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-code-workflows/systems-programming/1.2.2",
+        "version": "1.2.2",
+        "installedAt": "2026-05-08T12:59:33.569Z",
+        "lastUpdated": "2026-05-08T12:59:33.569Z",
+        "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
+      }
+    ],
+    "oh-my-claudecode@omc": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/omc/oh-my-claudecode/4.14.4",
+        "version": "4.14.4",
+        "installedAt": "2026-05-30T04:28:29.798Z",
+        "lastUpdated": "2026-05-30T04:28:29.798Z",
+        "gitCommitSha": "ed7800dd73b9ef1811b6f777b2017baabda9962a"
+      }
+    ],
+    "clangd-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/clangd-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-06-15T13:58:51.131Z",
+        "lastUpdated": "2026-06-15T13:58:51.131Z"
+      }
+    ]
+  }
+}

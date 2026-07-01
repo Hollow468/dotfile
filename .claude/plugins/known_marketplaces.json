@@ -1,0 +1,35 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/home/hollow/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-07-01T07:50:38.929Z"
+  },
+  "thedotmack": {
+    "source": {
+      "source": "github",
+      "repo": "thedotmack/claude-mem"
+    },
+    "installLocation": "/home/hollow/.claude/plugins/marketplaces/thedotmack",
+    "lastUpdated": "2026-07-01T07:50:37.389Z",
+    "autoUpdate": true
+  },
+  "claude-code-workflows": {
+    "source": {
+      "source": "github",
+      "repo": "wshobson/agents"
+    },
+    "installLocation": "/home/hollow/.claude/plugins/marketplaces/claude-code-workflows",
+    "lastUpdated": "2026-05-08T12:54:17.582Z"
+  },
+  "omc": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode.git"
+    },
+    "installLocation": "/home/hollow/.claude/plugins/marketplaces/omc",
+    "lastUpdated": "2026-05-30T04:28:13.866Z"
+  }
+}

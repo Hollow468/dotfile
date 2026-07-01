@@ -1,0 +1,59 @@
+# Credentials — never track secrets
+.credentials.json
+
+# Chat history (changes constantly)
+history.jsonl
+
+# Session state
+sessions/
+session-env/
+
+# Generated cache & backups
+cache/
+backups/
+file-history/
+paste-cache/
+shell-snapshots/
+debug/
+
+# Plans & temp state
+plans/
+
+
+# Auto-update markers
+.session-stats.json
+.last-cleanup
+.last-update-result.json
+mcp-needs-auth-cache.json
+
+# Plugin configuration — track installed_plugins.json & known_marketplaces.json
+plugins/*
+!plugins/installed_plugins.json
+!plugins/known_marketplaces.json
+
+# Per-project context (191M, project-specific)
+projects/
+
+# OMC internal state (separate from project .omc)
+.omc/
+
+# Downloaded skill repos
+Obsidian-CLI-skill/
+
+# Telemetry data (auto-generated event logs)
+telemetry/
+
+# Task session state (ephemeral)
+tasks/
+teams/
+
+# Stats cache
+stats-cache.json
+
+# Python cache
+__pycache__/
+
+# Embedded git repos — OMC-managed skills not part of dotfiles
+skills/create-ex/
+skills/create-yourself/
+skills/nuwa-skill/
