@@ -36,7 +36,7 @@
         "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/frontend-design/unknown",
         "version": "unknown",
         "installedAt": "2026-05-07T15:05:36.220Z",
-        "lastUpdated": "2026-07-01T07:50:38.971Z",
+        "lastUpdated": "2026-07-01T16:10:20.636Z",
         "gitCommitSha": "7d0e5f5aae1643db011e905b561fca81776388a6"
       }
     ],
@@ -46,7 +46,7 @@
         "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/github/unknown",
         "version": "unknown",
         "installedAt": "2026-05-07T15:05:50.917Z",
-        "lastUpdated": "2026-07-01T07:50:38.970Z",
+        "lastUpdated": "2026-07-01T16:10:20.637Z",
         "gitCommitSha": "7d0e5f5aae1643db011e905b561fca81776388a6"
       }
     ],
@@ -170,17 +170,7 @@
         "gitCommitSha": "ece811f23310a37ceb43496dbac0e244fe6845b6"
       }
     ],
-    "oh-my-claudecode@omc": [
-      {
-        "scope": "user",
-        "installPath": "/home/hollow/.claude/plugins/cache/omc/oh-my-claudecode/4.14.4",
-        "version": "4.14.4",
-        "installedAt": "2026-05-30T04:28:29.798Z",
-        "lastUpdated": "2026-05-30T04:28:29.798Z",
-        "gitCommitSha": "ed7800dd73b9ef1811b6f777b2017baabda9962a"
-      }
-    ],
-    "clangd-lsp@claude-plugins-official": [
+        "clangd-lsp@claude-plugins-official": [
       {
         "scope": "user",
         "installPath": "/home/hollow/.claude/plugins/cache/claude-plugins-official/clangd-lsp/1.0.0",
