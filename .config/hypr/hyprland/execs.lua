@@ -23,8 +23,10 @@ hl.on("hyprland.start", function()
 		"wl-paste --type image --watch bash -c 'cliphist store && qs -c $qsConfig ipc call cliphistService update'"
 	)
 
-	-- Cursor
-	hl.exec_cmd("hyprctl setcursor Bibata-Modern-Classic 24")
+	hl.exec_cmd(
+		"/opt/clash-party/resources/sidecar/mihomo -d /home/hollow/.config/mihomo-party/work/ -ext-ctl-unix /tmp/mihomo-party.sock"
+	)
 
-	hl.exec_cmd("mihomo-party")
+	-- Cursor
+	hl.exec_cmd("hyprctl setcursor Bibata-Modern-Ice 24")
 end)
